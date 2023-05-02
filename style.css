@@ -1,7 +1,7 @@
 body {
   font-family: Montserrat, Arial, Sans Serif;
   margin: 0;
-  background-color: #101010;
+  background-color: #101010 !important;
 }
 
 h1, h2, p {
@@ -67,6 +67,7 @@ tr {
   top: 0;
   background-color: #101010;
   padding: 20px 0;
+  padding-right: 10px;
 }
 
 .navbar-item {
