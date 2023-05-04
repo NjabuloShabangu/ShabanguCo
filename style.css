@@ -170,6 +170,7 @@ tr {
 
 .contact-body {
   margin-top: 65px;
+  text-align: center;
   background-color: #101010;
   padding: 50px 5%;
 }
@@ -185,12 +186,12 @@ tr {
 }
 
 .long-input {
-  width: 300px;
+  width: 400px;
   height: 100px;
 }
 
 .short-input {
-  width: 200px;
+  width: 400px;
 }
 
 input[type=submit]:hover {
